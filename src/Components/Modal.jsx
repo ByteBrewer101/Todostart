@@ -14,13 +14,13 @@ export function Modal({ isOpen, onClose }) {
                     <div className="flex justify-end mt-4 ">
                         <button
                             onClick={onClose}
-                            className="px-4 py-2 bg-emerald-500 text-white rounded hover:bg-emerald-600 transition duration-200"
+                            className="px-4 py-2 bg-violet-500 text-white rounded hover:bg-violet-600 transition duration-200"
                         >
                             Add
                         </button>
                         <button
                             onClick={onClose}
-                            className="px-4 py-2 ml-2 bg-emerald-500 text-white rounded hover:bg-emerald-600 transition duration-200"
+                            className="px-4 py-2 ml-2 bg-violet-500 text-white rounded hover:bg-violet-600 transition duration-200"
                         >
                             Close
                         </button>

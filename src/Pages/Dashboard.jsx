@@ -21,7 +21,7 @@ export function Dashboard() {
       
 
       {/* Floating Button */}
-      <button      onClick={openModal} className=" hover:rotate-90 fixed bottom-20 right-20 w-20 h-20 bg-emerald-500 text-white rounded-full flex items-center justify-center z-50 hover:bg-emerald-600 transition duration-200">
+      <button      onClick={openModal} className=" hover:rotate-90 fixed bottom-20 right-20 w-20 h-20 bg-violet-500 text-white rounded-full flex items-center justify-center z-50 hover:bg-violet-600 transition duration-200">
      
         <svg
           xmlns="http://www.w3.org/2000/svg"
