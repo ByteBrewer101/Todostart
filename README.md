@@ -1,4 +1,4 @@
-# Todo List Application
+# Todo List Application Frontend
 
 A simple and efficient Todo List application built with React.js, styled with Tailwind CSS, and powered by Vite for fast development.
 
